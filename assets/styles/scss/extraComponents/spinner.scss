@@ -1,0 +1,18 @@
+@import "../variable.scss";
+
+@keyframes p-progress-spinner-color {
+  100%,
+  0% {
+    stroke: $color-primary !important;
+  }
+  40% {
+    stroke: $color-primary !important;
+  }
+  66% {
+    stroke: $color-primary !important;
+  }
+  80%,
+  90% {
+    stroke: $color-primary !important;
+  }
+}

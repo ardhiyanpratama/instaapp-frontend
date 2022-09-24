@@ -1,0 +1,13 @@
+@import '../variable.scss';
+
+.switch-og.p-inputswitch.p-inputswitch-checked .p-inputswitch-slider {
+  background: $color-blue-2;
+}
+
+.switch-og.p-inputswitch.p-inputswitch-checked:hover .p-inputswitch-slider {
+  background: $color-blue;
+}
+
+.switch-og.p-inputswitch .p-inputswitch-slider {
+  background: $color-grey-2;
+}

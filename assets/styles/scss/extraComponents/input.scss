@@ -1,0 +1,9 @@
+@import "../variable.scss";
+
+.input-primary.p-inputtext,
+.input-primary .p-inputtext,
+.p-fluid .input-primary.p-inputtextarea.p-inputtext {
+  border: 1px solid #e5e5e5 !important;
+  border-radius: 8px !important;
+  margin: 0 !important;
+}

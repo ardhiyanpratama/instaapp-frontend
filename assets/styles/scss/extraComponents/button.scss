@@ -1,0 +1,36 @@
+@import "../variable.scss";
+
+.p-button.btn-primary:hover {
+  background: $color-primary !important;
+  // box-shadow: 0 0 0 0.2rem rgb(5 160 39 / 25%);
+
+  border-color: $color-primary !important;
+}
+
+.p-button-link.btn-primary {
+  span {
+    color: $color-primary;
+  }
+}
+
+.p-button-link.btn-primary:hover {
+  background: transparent !important;
+}
+.p-button.btn-primary {
+  .p-button-label {
+    color: $white;
+  }
+  .p-button-icon {
+    color: $white;
+  }
+}
+
+.p-button-outlined.btn-primary-outlined {
+  border: 1px solid $color-primary;
+  color: $color-primary !important;
+  border-radius: $border-radius !important;
+  p {
+    color: $color-primary !important;
+    font-weight: 600;
+  }
+}

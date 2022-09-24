@@ -1,0 +1,91 @@
+@import "./variable.scss";
+
+.text-error {
+  font-size: 0.75rem;
+  color: $danger;
+}
+
+.text-body2 {
+  color: $dark;
+}
+
+.text-body3-grey {
+  font-weight: 500;
+  font-size: 12px;
+  color: $color-grey;
+}
+
+
+.text-danger {
+  color: $danger;
+}
+
+.text-primary {
+  color: $primary;
+}
+
+.text-primary-hover:hover {
+  color: $primary;
+}
+
+.color-grey {
+  color: $color-grey;
+}
+
+.color-grey-2 {
+  color: $color-grey-2;
+}
+
+.color-dark-2 {
+  color: $color-dark-2;
+}
+
+.color-green-2 {
+  color: $color-green-2;
+}
+
+.background-blue-3 {
+  background: $color-blue-3;
+}
+
+.background-green-2 {
+  background: $color-green-2;
+}
+
+.background-orange-2 {
+  background: $color-orange-2;
+}
+
+.background-red-4 {
+  background: $color-red-4;
+}
+
+.p-card {
+  color: $color-dark-2 !important;
+  border-radius: $border-radius !important;
+}
+
+.no-bs.p-card {
+  box-shadow: none !important;
+}
+
+
+.border-b-grey-4 {
+  border-bottom: 1px solid $color-grey-4;
+}
+
+.border-t-grey-4 {
+  border-top: 1px solid $color-grey-4;
+}
+
+.border-l-grey-4 {
+  border-left: 1px solid $color-grey-4;
+}
+
+.border-r-grey-4 {
+  border-right: 1px solid $color-grey-4;
+}
+
+.border-grey-4 {
+  border: 1px solid $color-grey-4;
+}

@@ -1,0 +1,21 @@
+{
+  "toast": {
+    "successSubmit": "Berhasil disimpan",
+    "errorSubmit": "Gagal menyimpan data, silahkan coba kembali",
+    "successDeleteData": "Berhasil dihapus",
+    "errorDelete": "Gagal menghapus data, silahkan coba lagi!",
+    "errorDetailData": "Gagal mengambil detail data, silahkan coba kembali",
+    "errorAllData": "Gagal mengambil data, silahkan coba kembali",
+    "successChangeStatus": "Berhasil merubah status aktif",
+    "errorChangeStatus": "Gagal merubah status aktif, silahkan coba kembali",
+    "errorDownload": "Gagal mendownload file",
+    "errorVerifikasi": "Gagal verifikasi data, silahkan coba lagi!",
+    "successVerifikasi": "Berhasil verifikasi data"
+  },
+  "confirm": {
+    "msgSave": "Apakah anda yakin ingin menyimpannya?",
+    "msgChange": "Apakah anda yakin ingin menggantinya?",
+    "msgDelete": "Apakah anda yakin ingin menghapusnya?",
+    "msgSaveNoDelete": "Apakah anda yakin ingin menyimpannya? jika sudah tersimpan tidak dapat dihapus"
+  }
+}

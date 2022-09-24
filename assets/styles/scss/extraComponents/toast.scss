@@ -1,0 +1,16 @@
+.toast-og {
+  z-index: 1050 !important;
+
+  .p-toast-message .p-toast-message-content {
+    align-items: center;
+    border-width: 0;
+  }
+
+  .p-toast-message .p-toast-message-content .p-toast-detail {
+    margin: 0;
+  }
+
+  .p-toast-message .p-toast-message-content .p-toast-message-icon {
+    font-size: 1.5rem;
+  }
+}

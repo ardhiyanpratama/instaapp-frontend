@@ -1,0 +1,14 @@
+@import './variable.scss';
+
+@media screen and (min-width: 1408px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+// widescreen
+@media screen and (max-width: 1407px) {
+  html {
+    font-size: 14px;
+  }
+}
